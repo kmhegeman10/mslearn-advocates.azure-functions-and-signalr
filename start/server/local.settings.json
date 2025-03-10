@@ -1,0 +1,15 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=signalref7c649c99;AccountKey=Gm11Q/aP9+5bNSwDllf/g2ortNkxMVXLMe6FryaGuwpY/aZ3JSr5u1WsY84+dq3Z6WP7cpbrSpT2+AStHP2rzw==;BlobEndpoint=https://signalref7c649c99.blob.core.windows.net/;FileEndpoint=https://signalref7c649c99.file.core.windows.net/;QueueEndpoint=https://signalref7c649c99.queue.core.windows.net/;TableEndpoint=https://signalref7c649c99.table.core.windows.net/",
+      "FUNCTIONS_WORKER_RUNTIME": "node",
+      "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+      "COSMOSDB_CONNECTION_STRING": "AccountEndpoint=https://signalr-cosmos-0c4a4336e9.documents.azure.com:443/;AccountKey=9oFY9QiHGOyrgy1b06m6HtWg3kCXIPeWocWlgfwnx4U42ioUI09ORSdwKuJF6ZP88ZWsNkPqORCXACDbe9VPlg==;",
+      "SIGNALR_CONNECTION_STRING":"Endpoint=https://msl-sigr-signalrc29bd9dc61.service.signalr.net;AccessKey=7fJBIWTt8qHHbNk9cepdShu3CySUu1MilScF23zxNn2COuil5chIJQQJ99BCACHYHv6XJ3w3AAAAASRS4naE;Version=1.0;"
+    },
+    "Host" : {
+      "LocalHttpPort": 7071,
+      "CORS": "http://localhost:3000",
+      "CORSCredentials": true
+    }
+  }
