@@ -1,5 +1,5 @@
 ```yaml
-    name: Client - Azure Static Web Apps CI/CD
+    name: Client
     
     on:
       push:
